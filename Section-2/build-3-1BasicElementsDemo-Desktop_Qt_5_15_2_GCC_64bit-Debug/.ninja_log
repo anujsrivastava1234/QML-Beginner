@@ -1,0 +1,11 @@
+# ninja log v5
+0	49	1705955395614211030	3-1BasicElementsDemo_autogen/timestamp	4fc247af2fad283a
+0	49	1705955395614211030	3-1BasicElementsDemo_autogen/mocs_compilation.cpp	4fc247af2fad283a
+0	49	1705955395614211030	/home/anuj/optFiles/QML-Beginner/Section-2/build-3-1BasicElementsDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/3-1BasicElementsDemo_autogen/timestamp	4fc247af2fad283a
+53	64	1705955395630210845	CMakeFiles/3-1BasicElementsDemo.dir/3-1BasicElementsDemo_autogen/mocs_compilation.cpp.o	ab40583ff6477597
+0	49	1705955395614211030	/home/anuj/optFiles/QML-Beginner/Section-2/build-3-1BasicElementsDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/3-1BasicElementsDemo_autogen/mocs_compilation.cpp	4fc247af2fad283a
+39	251	1705955576768135834	3-1BasicElementsDemo	62788a176166e99e
+2	12	1705955576528138544	3-1BasicElementsDemo_autogen/EWIEGA46WW/qrc_qml.cpp	bea59987c4152c91
+53	803	1705955396370202232	CMakeFiles/3-1BasicElementsDemo.dir/main.cpp.o	546b4a2c2556ddfd
+2	12	1705955576528138544	/home/anuj/optFiles/QML-Beginner/Section-2/build-3-1BasicElementsDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/3-1BasicElementsDemo_autogen/EWIEGA46WW/qrc_qml.cpp	bea59987c4152c91
+12	39	1705955576556138228	CMakeFiles/3-1BasicElementsDemo.dir/3-1BasicElementsDemo_autogen/EWIEGA46WW/qrc_qml.cpp.o	ca2146a2d6ab156f

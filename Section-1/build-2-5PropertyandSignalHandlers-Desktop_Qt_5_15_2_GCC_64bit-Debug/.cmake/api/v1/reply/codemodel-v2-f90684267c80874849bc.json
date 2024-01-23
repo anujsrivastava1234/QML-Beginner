@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-308205641710181e43e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2-5PropertyandSignalHandlers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2-5PropertyandSignalHandlers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-5PropertyandSignalHandlers-Debug-1a731a26be6f64977d53.json",
+					"name" : "2-5PropertyandSignalHandlers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-5PropertyandSignalHandlers_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-5PropertyandSignalHandlers_autogen-Debug-ee496243119139ebf657.json",
+					"name" : "2-5PropertyandSignalHandlers_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-5PropertyandSignalHandlers_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-5PropertyandSignalHandlers_autogen_timestamp_deps-Debug-a83506bc950f53234d51.json",
+					"name" : "2-5PropertyandSignalHandlers_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/anuj/optFiles/QML-Beginner/Section-1/build-2-5PropertyandSignalHandlers-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+		"source" : "/home/anuj/optFiles/QML-Beginner/Section-1/2-5PropertyandSignalHandlers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

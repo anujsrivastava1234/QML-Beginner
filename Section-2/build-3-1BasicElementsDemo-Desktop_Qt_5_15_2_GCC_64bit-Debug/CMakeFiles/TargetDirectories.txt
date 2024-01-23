@@ -1,0 +1,9 @@
+/home/anuj/optFiles/QML-Beginner/Section-2/build-3-1BasicElementsDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/3-1BasicElementsDemo.dir
+/home/anuj/optFiles/QML-Beginner/Section-2/build-3-1BasicElementsDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/anuj/optFiles/QML-Beginner/Section-2/build-3-1BasicElementsDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/anuj/optFiles/QML-Beginner/Section-2/build-3-1BasicElementsDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/anuj/optFiles/QML-Beginner/Section-2/build-3-1BasicElementsDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/anuj/optFiles/QML-Beginner/Section-2/build-3-1BasicElementsDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/anuj/optFiles/QML-Beginner/Section-2/build-3-1BasicElementsDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/anuj/optFiles/QML-Beginner/Section-2/build-3-1BasicElementsDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/3-1BasicElementsDemo_autogen_timestamp_deps.dir
+/home/anuj/optFiles/QML-Beginner/Section-2/build-3-1BasicElementsDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/3-1BasicElementsDemo_autogen.dir

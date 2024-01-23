@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-206714cc445ba6777206.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2-2QmlDataTypesDemo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2-2QmlDataTypesDemo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-2QmlDataTypesDemo-Debug-223ee5ccd64d29ce36e8.json",
+					"name" : "2-2QmlDataTypesDemo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-2QmlDataTypesDemo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-2QmlDataTypesDemo_autogen-Debug-a6f76b6416b38c4e6b74.json",
+					"name" : "2-2QmlDataTypesDemo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2-2QmlDataTypesDemo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2-2QmlDataTypesDemo_autogen_timestamp_deps-Debug-2da8b5daaa437ad54b85.json",
+					"name" : "2-2QmlDataTypesDemo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/anuj/optFiles/QML-Beginner/Section-1/build-2-2QmlDataTypesDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+		"source" : "/home/anuj/optFiles/QML-Beginner/Section-1/2-2QmlDataTypesDemo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

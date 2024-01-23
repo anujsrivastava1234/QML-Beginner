@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/home/anuj/optFiles/QML-Beginner/Section-2/build-3-2CustomComponentDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/3-2CustomComponentDemo_autogen",
+	"CMAKE_BINARY_DIR" : "/home/anuj/optFiles/QML-Beginner/Section-2/build-3-2CustomComponentDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/anuj/optFiles/QML-Beginner/Section-2/build-3-2CustomComponentDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/anuj/optFiles/QML-Beginner/Section-2/3-2CustomComponentDemo",
+	"CMAKE_SOURCE_DIR" : "/home/anuj/optFiles/QML-Beginner/Section-2/3-2CustomComponentDemo",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/anuj/optFiles/QML-Beginner/Section-2/build-3-2CustomComponentDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/3-2CustomComponentDemo_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/anuj/optFiles/QML-Beginner/Section-2/3-2CustomComponentDemo/MButton.qml",
+		"/home/anuj/optFiles/QML-Beginner/Section-2/3-2CustomComponentDemo/main.qml"
+	],
+	"LOCK_FILE" : "/home/anuj/optFiles/QML-Beginner/Section-2/build-3-2CustomComponentDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/3-2CustomComponentDemo_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/anuj/Qt/5.15.2/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/anuj/optFiles/QML-Beginner/Section-2/build-3-2CustomComponentDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/3-2CustomComponentDemo_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/anuj/optFiles/QML-Beginner/Section-2/3-2CustomComponentDemo/qml.qrc",
+	"VERBOSITY" : 0
+}

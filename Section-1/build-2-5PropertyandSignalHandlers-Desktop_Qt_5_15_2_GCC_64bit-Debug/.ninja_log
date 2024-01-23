@@ -1,0 +1,15 @@
+# ninja log v5
+0	48	1705954454363236069	2-5PropertyandSignalHandlers_autogen/timestamp	a8110fd4e23c6967
+0	48	1705954454363236069	2-5PropertyandSignalHandlers_autogen/mocs_compilation.cpp	a8110fd4e23c6967
+0	48	1705954454363236069	/home/anuj/optFiles/QML-Beginner/Section-1/build-2-5PropertyandSignalHandlers-Desktop_Qt_5_15_2_GCC_64bit-Debug/2-5PropertyandSignalHandlers_autogen/timestamp	a8110fd4e23c6967
+0	48	1705954454363236069	/home/anuj/optFiles/QML-Beginner/Section-1/build-2-5PropertyandSignalHandlers-Desktop_Qt_5_15_2_GCC_64bit-Debug/2-5PropertyandSignalHandlers_autogen/mocs_compilation.cpp	a8110fd4e23c6967
+48	56	1705954454375235855	2-5PropertyandSignalHandlers_autogen/EWIEGA46WW/qrc_qml.cpp	43fe26db9fa09932
+48	56	1705954454375235855	/home/anuj/optFiles/QML-Beginner/Section-1/build-2-5PropertyandSignalHandlers-Desktop_Qt_5_15_2_GCC_64bit-Debug/2-5PropertyandSignalHandlers_autogen/EWIEGA46WW/qrc_qml.cpp	43fe26db9fa09932
+57	72	1705954454391235569	CMakeFiles/2-5PropertyandSignalHandlers.dir/2-5PropertyandSignalHandlers_autogen/mocs_compilation.cpp.o	6b948d75af781c4
+57	79	1705954454399235426	CMakeFiles/2-5PropertyandSignalHandlers.dir/2-5PropertyandSignalHandlers_autogen/EWIEGA46WW/qrc_qml.cpp.o	74fe4358fd681b12
+57	810	1705954455127222444	CMakeFiles/2-5PropertyandSignalHandlers.dir/main.cpp.o	a1e71c025e69732b
+811	1029	1705954455347218524	2-5PropertyandSignalHandlers	eb8be34711fdce00
+1	10	1705954468090992546	2-5PropertyandSignalHandlers_autogen/EWIEGA46WW/qrc_qml.cpp	43fe26db9fa09932
+1	10	1705954468090992546	/home/anuj/optFiles/QML-Beginner/Section-1/build-2-5PropertyandSignalHandlers-Desktop_Qt_5_15_2_GCC_64bit-Debug/2-5PropertyandSignalHandlers_autogen/EWIEGA46WW/qrc_qml.cpp	43fe26db9fa09932
+10	25	1705954468102992334	CMakeFiles/2-5PropertyandSignalHandlers.dir/2-5PropertyandSignalHandlers_autogen/EWIEGA46WW/qrc_qml.cpp.o	74fe4358fd681b12
+25	235	1705954468314988595	2-5PropertyandSignalHandlers	eb8be34711fdce00

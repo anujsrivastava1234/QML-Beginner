@@ -1,0 +1,11 @@
+# ninja log v5
+0	28	1705950255051770854	2-2QmlDataTypesDemo_autogen/timestamp	c9db0bccb70d5bf7
+0	28	1705950255051770854	2-2QmlDataTypesDemo_autogen/mocs_compilation.cpp	c9db0bccb70d5bf7
+0	28	1705950255051770854	/home/anuj/optFiles/QML-Beginner/Section-1/build-2-2QmlDataTypesDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/2-2QmlDataTypesDemo_autogen/timestamp	c9db0bccb70d5bf7
+0	28	1705950255051770854	/home/anuj/optFiles/QML-Beginner/Section-1/build-2-2QmlDataTypesDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/2-2QmlDataTypesDemo_autogen/mocs_compilation.cpp	c9db0bccb70d5bf7
+29	36	1705950255063770931	2-2QmlDataTypesDemo_autogen/EWIEGA46WW/qrc_qml.cpp	1ccbd7ff8cffb329
+29	36	1705950255063770931	/home/anuj/optFiles/QML-Beginner/Section-1/build-2-2QmlDataTypesDemo-Desktop_Qt_5_15_2_GCC_64bit-Debug/2-2QmlDataTypesDemo_autogen/EWIEGA46WW/qrc_qml.cpp	1ccbd7ff8cffb329
+36	52	1705950255079771031	CMakeFiles/2-2QmlDataTypesDemo.dir/2-2QmlDataTypesDemo_autogen/mocs_compilation.cpp.o	fd9b269fb1c68c59
+36	57	1705950255083771057	CMakeFiles/2-2QmlDataTypesDemo.dir/2-2QmlDataTypesDemo_autogen/EWIEGA46WW/qrc_qml.cpp.o	68036739cfd6093a
+36	789	1705950255815775686	CMakeFiles/2-2QmlDataTypesDemo.dir/main.cpp.o	ffc05921a31fff3a
+789	1001	1705950256027777026	2-2QmlDataTypesDemo	e9a79e6f8bb7af9a
